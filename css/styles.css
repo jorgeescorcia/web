@@ -1,0 +1,143 @@
+/* imagen primera columna */
+
+body{
+    
+    font-size: 14px;
+}
+
+.cabezera{
+    margin-top: 30px;
+}
+
+/* Foto personal */
+.foto{
+    
+    width: 130px;
+    height: 130px;
+   
+}
+/* iconos estudios */
+.unicor,.sena,.codecademy,.udemy,.edteam{
+    width: 70px;
+    height: 70px;
+    box-shadow: 0.3px 0.3px 0.3px 0.5px #999;
+    margin: 8px;
+    
+   
+}
+
+h3{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+
+/* Acerca de */
+.acerca{
+    
+    
+    text-align: left;
+   
+    height: 20px;
+}
+
+.columna1{
+    
+    border-right: #ccc 1px solid;
+   
+}
+.segundacol{
+    
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+}
+
+
+
+/* linea debajo de acerca de */
+hr{   
+    margin-right: 330px;
+}    
+/* los dos parrafos de la segunda columna */
+.texto-acerca,.texto-acerca2{
+
+    text-align: justify;
+}
+/* redes sociales */
+a{
+    padding: 8px;
+    color: black;
+    margin-bottom: 10px;
+
+}
+
+
+/* container habilidades */
+.container{
+    border-bottom:gray 1px solid;
+    
+}
+/* barra de navegacion */
+
+nav{
+
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 16px;  
+}
+
+.navegacion:hover{
+
+     border-bottom: black 2px solid; */
+   
+} 
+ 
+
+h6{
+    font-family: 'Signika Negative', sans-serif bold;
+    font-size: 20px;
+}
+
+/* Iconos sociales */
+
+.social{
+ 
+    width: 50px;
+    height: 50px;
+
+}
+
+/* imagen */
+.imagen{
+    margin-bottom: 15px;
+
+}
+
+/* line debajo del nombre */
+.linea-nombre{
+    
+    margin-right: 1px;
+    margin-top: 1px;
+}
+
+
+.lista-fronted{
+    text-align: justify;
+    font-size: 16px;
+   
+    
+}
+
+.lista-backend{
+    text-align: justify;
+    font-size: 16px;
+    
+}
+
+
+footer{
+    font-size: 15px;
+    
+}
+
